@@ -15,9 +15,9 @@ const styles = {
 
 const SidebarContainer = styled.aside`
   ${components.card};
-  width: 250px;
+  // width: 250px;
   padding: 8px 0 12px;
-  position: fixed;
+  // position: fixed;
   max-height: calc(100vh - 112px);
   overflow: auto;
 `

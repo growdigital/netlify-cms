@@ -15,7 +15,7 @@ const CollectionContainer = styled.div`
 `
 
 const CollectionMain = styled.main`
-  padding-left: 280px;
+  // padding-left: 280px;
 `
 
 class Collection extends React.Component {

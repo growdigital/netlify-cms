@@ -91,7 +91,7 @@ const colors = {
 };
 
 const lengths = {
-  topBarHeight: '56px',
+  // topBarHeight: '56px',
   inputPadding: '16px 20px',
   borderRadius: '5px',
   richTextEditorMinHeight: '300px',
@@ -235,7 +235,7 @@ const components = {
   `,
   cardTop: css`
     ${card};
-    width: ${lengths.topCardWidth};
+    // width: ${lengths.topCardWidth};
     max-width: 100%;
     padding: 18px 20px;
     margin-bottom: 28px;
