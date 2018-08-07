@@ -7,7 +7,8 @@ import { VIEW_STYLE_LIST, VIEW_STYLE_GRID } from 'Constants/collectionViews';
 
 const ListCard = styled.li`
   ${components.card};
-  width: ${lengths.topCardWidth};
+  // width: ${lengths.topCardWidth};
+  width: 100%;
   margin-left: 12px;
   margin-bottom: 16px;
 `
